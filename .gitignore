@@ -1,0 +1,38 @@
+# Verilog simulation artifacts
+*.vcd
+*.vvp
+*.wlf
+*.log
+*.jou
+*.str
+transcript
+modelsim.ini
+work/
+
+# Build/synthesis outputs
+*.bit
+*.bin
+*.hex
+*.mif
+*.svf
+*.tmp
+*.bak
+
+# Tool-generated intermediate files
+*.cf
+*.out
+*.rpt
+
+# KiCad autosave and user files
+*.kicad_prl
+*.kicad_pro.user
+*-backups/
+*.autosave
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
